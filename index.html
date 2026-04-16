@@ -21,6 +21,7 @@
             <p>
                Preencha os dados abaixo para matricular seu filho na escola de educação infantil Estrelas do Amanhã.
             </p>
+
             <form enctype="multipart/form-data">
                <fieldset class="child-info">
                   <legend>Informações da criança</legend>
@@ -59,6 +60,7 @@
                      </div>
                   </div>
                </fieldset>
+
                <fieldset class="address">
                   <legend>Endereço residencial</legend>
                   <div class="input">
@@ -86,6 +88,27 @@
                      </div>
                   </div>
                </fieldset>
+               
+               <fieldset class="guardian-info">
+                  <legend>Informações do responsável</legend>
+                     <div class="input">
+                        <label for="guardian-name">Nome do responsável</label>
+                        <input type="text" id="guardian-name" name="guardian-name">
+                        <small>Principal responsável legal e contato de emergência</small>
+                     </div>
+                     <div class="input">
+                        <label for="guardian-phone">Telefone</label>
+                        <input type="tel" id="guardian-phone" name="guardian-phone" placeholder="(10) 9 8765-4321">
+                     </div>
+                     <div class="input">
+                        <label for="guardian-email">E-mail</label>
+                        <input type="email" id="guardian-email" name="guardian-email" required>
+                        <div class="error">
+                           <img src="assets/icons/alert-circle.svg" alt="Ícone de alerta vermelho">
+                           <span>Insira um e-mail válido</span>
+                        </div>
+                     </div>
+               </fieldset>
             </form>
          </div>
       </main>
@@ -101,6 +124,7 @@
                   Inscreva seu filho em nossa escola e veja-o florescer em um ambiente acolhedor, seguro e estimulante.
                </p>
             </header>
+
             <img src="assets/Illustration.svg" alt="Ilustração de uma professora com crianças ao redor desenhando">
          </div>
       </aside>
