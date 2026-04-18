@@ -53,12 +53,12 @@ estrelas-do-amanha/
 ## ⚡ **Funcionalidades**
 
 **Formulário completo de matrícula** com campos para:
-  - Informações da criança (nome, data de nascimento, sexo, informações médicas)
-  - Upload de certidão de nascimento com área drag-and-drop
-  - Endereço residencial
-  - Informações do responsável (nome, telefone, e-mail)
-  - Opções de matrícula com turno de estudo e 6 esportes diferentes
-  - Aceitação de termos e condições
+  - **Informações da criança** (nome, data de nascimento, sexo, informações médicas)
+  - **Upload de certidão de nascimento** com área drag-and-drop
+  - **Endereço residencial**
+  - **Informações do responsável** (nome, telefone, e-mail)
+  - **Opções de matrícula** com turno de estudo e 6 esportes diferentes
+  - **Aceitação de termos e condições**
 
 ## 📚 **Aprendizados**
 
