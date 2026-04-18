@@ -62,13 +62,13 @@ estrelas-do-amanha/
 
 ## 📚 **Aprendizados**
 
-Este projeto foi desenvolvido como parte dos estudos de front-end, focando em:
+Este projeto foi desenvolvido como parte dos estudos de **front-end**, focando em:
 
 - **Boas práticas de organização**: Separação responsável dos arquivos CSS por componente
 - **CSS Moderno**: Aplicação de recursos como nesting e variáveis customizadas
 - **Semântica HTML5**: Uso correto das tags para melhor acessibilidade
 - **Design System**: Consistência visual através de variáveis e padrões definidos
-- **Formulários complexos**: Implementação de diversos tipos de campos e validações
+- **Formulários complexos**: Implementação de diversos tipos de campos
 - **UX/UI**: Design intuitivo e acessível para pais e responsáveis
 - **Estabilidade Visual**: Prevenção de layout shift para melhor experiência do usuário
-- **CSS Grid Layout**: Layout responsivo com colunas proporcionais
+- **CSS Grid Layout**: Layout com colunas proporcionais
