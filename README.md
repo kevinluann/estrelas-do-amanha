@@ -1,3 +1,5 @@
+<img width="960" alt="estrelas-do-amanha-preview (1)" src="https://github.com/user-attachments/assets/dca16cce-9270-42f5-b3ea-d2b41a33ebb0" />
+
 # Estrelas do Amanhã
 
 **Página única** de formulário de matrícula para escola de educação infantil, desenvolvida com HTML5 e CSS3.
@@ -12,7 +14,7 @@ Projeto de estudo para praticar:
 - Organização modular de arquivos CSS
 - Formulários complexos e validação
 
-## 📄 Estrutura da Página
+## Estrutura da Página
 
 - **Main** com formulário de matrícula completo e navegação
   - `div.main-container` com estrutura principal
@@ -20,12 +22,12 @@ Projeto de estudo para praticar:
 - **Aside** com logotipo e header
   - `header` com Ilustração SVG decorativa e mensagem convidativa
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 - **HTML5** - Estrutura semântica
 - **CSS3** - Estilização e layout
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 estrelas-do-amanha/
