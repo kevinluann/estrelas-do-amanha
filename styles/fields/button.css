@@ -10,7 +10,8 @@ button {
       color: white;
       background-color: var(--brand-dark);
 
-      &:hover, &:focus {
+      &:hover,
+      &:focus {
          background-color: #F3541C;
       }
    }
@@ -19,7 +20,8 @@ button {
       margin-left: auto;
       border: 1px solid var(--text-highlight);
 
-      &:hover, &:focus {
+      &:hover,
+      &:focus {
          color: var(--brand-dark);
          outline: 0.25rem solid var(--surface-secondary);
       }

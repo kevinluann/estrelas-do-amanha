@@ -26,7 +26,8 @@
       background-repeat: no-repeat;
    }
 
-   &:hover, &:focus-within {
+   &:hover,
+   &:focus-within {
       & .checkbox-image {
          background-image: url(../../assets/icons/checkbox-hover.svg);
       }

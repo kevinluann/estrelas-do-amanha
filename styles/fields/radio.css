@@ -1,4 +1,4 @@
-label + .radio {
+label+.radio {
    margin-top: 1rem;
 }
 
@@ -45,7 +45,8 @@ label + .radio {
       background-repeat: no-repeat;
    }
 
-   &:hover, &:focus-within {
+   &:hover,
+   &:focus-within {
       outline-color: var(--stroke-highlight);
 
       & .radio-image {
