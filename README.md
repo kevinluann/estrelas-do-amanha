@@ -1,4 +1,4 @@
-<img width="960" alt="estrelas-do-amanha-preview (1)" src="https://github.com/user-attachments/assets/dca16cce-9270-42f5-b3ea-d2b41a33ebb0" />
+<img width="1200" alt="estrelas-do-amanha-preview (1)" src="https://github.com/user-attachments/assets/dca16cce-9270-42f5-b3ea-d2b41a33ebb0" />
 
 # Estrelas do Amanhã
 
