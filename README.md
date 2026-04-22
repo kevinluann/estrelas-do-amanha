@@ -1,8 +1,16 @@
-<img width="1200" alt="estrelas-do-amanha-preview (1)" src="https://github.com/user-attachments/assets/dca16cce-9270-42f5-b3ea-d2b41a33ebb0" />
+<div align="center">
+
+<hr />
 
 # Estrelas do Amanhã
 
+<img width="1200" alt="estrelas-do-amanha-preview (1)" src="https://github.com/user-attachments/assets/dca16cce-9270-42f5-b3ea-d2b41a33ebb0" />
+
 **Página única** de formulário de matrícula para escola de educação infantil, desenvolvida com HTML5 e CSS3.
+
+<hr />
+
+</div>
 
 ## 🎯 **Objetivo**
 
